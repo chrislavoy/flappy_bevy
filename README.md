@@ -1,3 +1,3 @@
-#Flappy Bevy
+# Flappy Bevy
 
-A flappy bird clone to tech myself bevy
+A flappy bird clone to tech myself the bevy game engine
